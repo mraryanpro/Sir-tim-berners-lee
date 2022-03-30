@@ -1,0 +1,20 @@
+<html> <head> <title>student activity</title> </head> <body> <h1> Open console </h1> <script> console.log("Hi I am console screen");
+
+    var full_name= first_name.concat (last_name);
+    
+    var length_of_full_name =full_name.length;
+    
+    var making_lower_case = capital_name.tolowercase();
+    
+    var replace_name = name_one.replace ("aryan","pandey")
+    
+    var making_upper_case = capital_name.touppercase();
+    
+    var square_root =Math.sqrt(16);
+    
+    var maximun_number = Math.max (15, 10);
+    
+    var minimun_number = Math.min (15,10);
+    
+    var power_eg_1 = math.pow (4, 2);
+    
